@@ -1,0 +1,26 @@
+[
+    {
+        "id":"001",
+        "firstName": "Pedro",
+        "lastName": "Alburqueque",
+        "position": "Payroll Admin",
+        "email": "prolsu88@gmail.com",
+        "phone": " (954) 655-1482"
+    },
+    {
+        "id":"002",
+        "firstName": "Regina",
+        "lastName": "Grimner",
+        "position": "Senior Staff Accountant",
+        "email": "rgrimner@gmail.com",
+        "phone": " (305) 692-5601"
+    },
+    {
+        "id":"003",
+        "firstName": "Nastassia",
+        "lastName": "Dennis",
+        "position": "AR Supervisor",
+        "email": "ndennis@gmail.com",
+        "phone": " (305) 692-5602"
+    }
+]
