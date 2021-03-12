@@ -1,0 +1,62 @@
+[
+    {
+        "id":"001",
+        "status": "Terminated",
+        "department": "Finance",
+        "firstName": "Pedro",
+        "lastName": "Alburqueque",
+        "position": "Payroll Admin",
+        "email": "prolsu88@gmail.com",
+        "phone": "(305) 692-5600"
+    },
+    {
+        "id":"002",
+        "status": "Active",
+        "department": "Human Resources",
+        "firstName": "Regina",
+        "lastName": "Grimner",
+        "position": "HR Manager",
+        "email": "rgrimner@gmail.com",
+        "phone": "(305) 692-5601"
+    },
+    {
+        "id":"003",
+        "status": "Active",
+        "department": "Sales",
+        "firstName": "Nastassia",
+        "lastName": "Dennis",
+        "position": "Regional Sales Manager",
+        "email": "ndennis@gmail.com",
+        "phone": "(305) 692-5602"
+    },
+    {
+        "id":"004",
+        "status": "Terminated",
+        "department": "Housekeeping",
+        "firstName": "Ed",
+        "lastName": "Biel",
+        "position": "Housekeeping Director",
+        "email": "ebiel@gmail.com",
+        "phone": "(305) 692-5603"
+    },
+    {
+        "id":"005",
+        "status": "Active",
+        "department": "Finance",
+        "firstName": "Samuel",
+        "lastName": "Morse",
+        "position": "Controller",
+        "email": "smorse@gmail.com",
+        "phone": "(305) 692-5604"
+    },
+    {
+        "id":"006",
+        "status": "Terminated",
+        "department": "Culinary",
+        "firstName": "Juan",
+        "lastName": "Hincapie",
+        "position": "Sous Chef",
+        "email": "jhincapie@gmail.com",
+        "phone": "(305) 692-5605"
+    }
+]
