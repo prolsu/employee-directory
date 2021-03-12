@@ -40,7 +40,6 @@ class App extends Component {
                 uniqueDepartments.push(departments[i]);
             };
         };
-        console.log(uniqueDepartments);
 
         let newState = [];
 
